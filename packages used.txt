@@ -1,0 +1,9 @@
+yarn
+yarn add swiper
+yarn add emailjs
+yarn add @emailjs/browser
+yarn add @iconscout/react-unicons
+yarn add react-is
+yarn add framer-motion
+yarn add react-scroll
+
